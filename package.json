@@ -1,5 +1,5 @@
 {
-    "name": "socket.io-client"
+    "name": "socket.io-client09"
   , "description": "Socket.IO client for the browser and node.js"
   , "version": "0.9.7"
   , "main" : "./lib/io.js"
